@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dongdongtaetae
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @dongdongtaetae.
+- 👀 I’m interested in playing Mario.
+- 🌱 I’m currently learning painting, and clay art.
+- 💞️ I’m looking to collaborate on my self.
+- 📫 there is no way to contect me.
 
 <!---
 dongdongtaetae/dongdongtaetae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
